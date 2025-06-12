@@ -3,34 +3,29 @@
 A data science project done as part of the Spring 2025 Data Science course at GIU.  
 We analyzed the Heart Failure dataset and built ML models to predict patient outcomes.
 
-  Assignment 1: Data Exploration & Cleaning
-  Tools: pandas, matplotlib, seaborn
-  What we did:
-  
-  Cleaned up messy datasets
-  Handled missing values and outliers
-  Plotted data trends and correlations
+Assignment 1: Data Exploration & Cleaning
+Cleaned and prepared raw datasets
 
-  Assignment 2: Classification
-  Algorithms: KNN, Naive Bayes, Decision Tree, Random Forest
-  What we did:
-  
-  Trained and tested models
-  Compared accuracy and confusion matrices
-  Used train/test splits & cross-validation
+Handled missing values and outliers
 
-  Assignment 3: Clustering
-  Algorithms: K-Means, Agglomerative, GMM, BIRCH
-  What we did:
-  
-  Clustered data using unsupervised learning
-  Measured quality with silhouette score
-  Visualized clusters
+Visualized data using Pandas, Matplotlib, and Seaborn
 
-  Datasets Used
-  Kaggle
-  UCI ML Repository
+Assignment 2: Classification
+Trained KNN, Naive Bayes, Decision Tree, and Random Forest models
 
-  Tech Stack
-  Python (Jupyter Notebooks)
-  scikit-learn, pandas, seaborn, matplotlib
+Used train/test split and cross-validation
+
+Compared models using accuracy and confusion matrices
+
+Assignment 3: Clustering
+Applied K-Means, Agglomerative, GMM, and BIRCH clustering
+
+Evaluated using silhouette score
+
+Visualized clustering results
+
+Tools Used
+Python, Pandas, scikit-learn, Matplotlib, Seaborn
+
+Datasets
+Kaggle and UCI Machine Learning Repository
