@@ -25,7 +25,17 @@ Evaluated using silhouette score
 Visualized clustering results
 
 Tools Used
-Python, Pandas, scikit-learn, Matplotlib, Seaborn
+Python
+
+Pandas
+
+scikit-learn
+
+Matplotlib
+
+Seaborn
 
 Datasets
-Kaggle and UCI Machine Learning Repository
+Kaggle
+
+UCI Machine Learning Repository
